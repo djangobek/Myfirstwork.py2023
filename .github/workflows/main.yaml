@@ -17,4 +17,3 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: ls /home/runner/work/Myfirstwork.py2023/Myfirstwork.py2023/.github/workflows
-/
